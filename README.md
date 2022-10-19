@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a front end software developer living in Houston, Texas!
+### Hi there 👋 I currently live in Houston, Texas!
 
 - 🔭 I’m currently working on becoming a front end software developer
 - 💬 I’m currently learning javascript, HTML, & CSS
