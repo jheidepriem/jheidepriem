@@ -6,5 +6,5 @@
 - 📫 How to reach me: jheidepriem@gmail.com
 - 😄 Pronouns: She/Her
 
-[![Josephine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jheidepriem)](https://github.com/jheidepriem/github-readme-stats)
+
 
