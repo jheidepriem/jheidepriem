@@ -1,7 +1,7 @@
 ### Hi there 👋 I currently live in Houston, Texas!
 
-- 🔭 I’m currently working on becoming a front end software developer
-- 💬 I’m currently learning JavaScript, HTML, & CSS
+- 🔭 I’m a Front-End Software Developer
+- 💬 I’m currently learning TypeScript
 - 🌱 Ask me about plants
 - 📫 How to reach me: jheidepriem@gmail.com
 - 😄 Pronouns: She/Her
